@@ -6,7 +6,7 @@
 
 # Use RubyVersionManager to install newer version rubya
 # Use this version: 
-# 	rvm use 1.92
+# 	rvm use 1.9.2
 # To verify type
 #	rvm -v
 # To set default
